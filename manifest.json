@@ -1,11 +1,7 @@
 {
+  "url": "https://joingithubstyle.github.io/tonconnect-manifest/",
   "name": "Click Game",
-  "description": "Click game integrated with TON Connect",
-  "url": "https://github.com/Joingithubstyle/tonconnect-manifest",
-  "icons": [
-    {
-      "src": "https://github.com/ambrosus/airdao-mobile/raw/main/assets/logo.png",
-      "sizes": "192x192"
-    }
-  ]
+  "iconUrl": "https://github.com/ambrosus/airdao-mobile/raw/main/assets/logo.png",
+  "termsOfUseUrl": "https://joingithubstyle.github.io/tonconnect-manifest/terms.html",
+  "privacyPolicyUrl": "https://joingithubstyle.github.io/tonconnect-manifest/privacy.html"
 }
