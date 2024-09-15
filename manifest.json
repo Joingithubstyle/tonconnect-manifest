@@ -7,6 +7,5 @@
       "src": "https://github.com/ambrosus/airdao-mobile/raw/main/assets/logo.png",
       "sizes": "192x192"
     }
-  ],
-  "redirects": ["https://raw.githubusercontent.com/Joingithubstyle/tonconnect-manifest/main/manifest.json"]
+  ]
 }
